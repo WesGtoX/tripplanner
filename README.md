@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://github.com/WesGtoX/tripplanner">
-     <img src="assets/logo-tripplanner.png" alt="TripPlanner" title="TripPlanner" width="500px">
+     <img src="assets/logo-tripplanner.png" alt="TripPlanner" title="TripPlanner" width="250px">
    </a>
 </p>
 
