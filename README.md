@@ -12,7 +12,7 @@ A travel planning application created using React Native.
 
 [Figma Interface Design](https://www.figma.com/file/MXx0yilh135oAVKbN16yfE3I/TripPlanner)
 
-Made in the Hands-on React Native course by [Tulio Faria](https://github.com/tuliofaria)
+Made in the [Hands-on React Native](https://www.devpleno.com/) course by [Tulio Faria](https://github.com/tuliofaria)
 
 Author: [Wesley Mendes](https://github.com/WesGtoX)
 
